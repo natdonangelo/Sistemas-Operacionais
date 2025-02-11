@@ -3,6 +3,7 @@
 ## **O que são sistemas operacionais?**
 São softwares que gerenciam os aplicativos e os recursos de um dispositivo. Alguns dos sistemas mais usados em computadores são o Windows, da Microsoft, o macOS, da Apple, e o Linux, de código aberto. Em celulares, Android e iOS são exemplos de sistemas operacionais populares. Todos esses softwares realizam tarefas para garantir o bom funcionamento dos aparelhos, mas existem diferentes tipos de sistemas operacionais. Os programas são categorizados de acordo com sua aplicação e têm características próprias do fabricante.
 
+![Sistema](https://media.licdn.com/dms/image/v2/D4D12AQFBEHTNMoFh9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1692045692421?e=2147483647&v=beta&t=EgH2r3WpdGHLbaDVBEoG2CU2CEa_8JUC_CLkBXtnu48)
 ---
 ## **Evolução dos sistemas operacionais**
 #### - MS-DOS e a Transição para Interfaces Gráficas:
@@ -21,12 +22,17 @@ O Windows 11, lançado em 2021, representa a próxima fase na evolução dos sis
 ---
 ## **Versões importantes do Windows**
 #### 1. Windows 95 - (1995): Introduziu o Menu Iniciar e a barra de tarefas, marcando uma grande mudança na interface.
+![windows](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPf3YxtTSJNN6jZL_s1lJHhll8mfS2zTySQ&s)
 #### 2. Windows XP - (2001): Famoso pela estabilidade e interface amigável, tornando-se um dos sistemas mais populares.
+![windows](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUsUCGsjIWWT7b9Er5mHWLZUwDuIgOoX54w&s)
 #### 3. Windows 7 - (2009): Ofereceu desempenho refinado e maior compatibilidade, superando o Windows Vista.
+![windows](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTldQ9BoweuXwg_g1zJaBwuG2QOlsxbg1POKg&s)
 #### 4. Windows 8 - (2012):  Trouxe a interface Modern UI, focada em dispositivos touchscreen, mas não foi bem recebido por usuários de desktop.
+![windows](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnAcP8LUVE9RdyDTQ1_tayx32KY8OAHsdayA&s)
 #### 5. Windows 10 - (2015): Restaurou o Menu Iniciar, uniu interfaces para diferentes dispositivos e passou a receber atualizações contínuas, oferecendo uma experiência mais segura e integrada.
-
+![windows](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoww1XXL77wmMdiMndPqrPIXQ8nTTeduxjQ&s)
 ---
+
 ## **Arquitetura do Windows** 
 A arquitetura do Windows é composta por várias categorias com diversos elementos interconectados que trabalham juntos para manter o funcionamento do computador, assegurando uma experiência segura e eficiente. Entre esses componentes podemos citar:
 ##### - Hardware:
@@ -71,21 +77,21 @@ Digite a nova data: (dd-mm-aa) 06/01/2000
 ---
 ## **Curiosidades sobre o Windows**
 - 1- O Windows 10 no mundo
-foto
+![windows](https://cdn.awsli.com.br/2500x2500/1264/1264896/produto/77512715/3497e3ad57.jpg)
 > O Windows 10 está em execução em 192 países – praticamente todos os países do planeta.
 - 2- A musiquinha do Windows
-foto
+![windows]()
 > Composto por 84 peças de 3,35 segundos, o "Microsoft Sound" foi feito por Eno, que já trabalhou com artistas como U2, David Bowie e Talking Heads.
 - 3- Papel de parede
-foto
+![windows]()
 > O famoso papel de parede do Windows XP “Bliss”, realmente existe e foi fotografado na califórnia, em 1996, pelo fotógrafo Charles O’Rear. Já no Windows Vista, os wallpapers padrões foram escolhidos a partir de fotos tiradas pelos funcionários da Microsoft e membros do Flickr.
 - 4- Easter Eggs
-foto
+![windows]()
 > No Windows 10, há uma imagem escondida de uma casa de hobbit, de "Senhor dos Anéis". Para vê-la, basta acessar "Configurações", depois "Facilidade de Acesso" e selecionar "Legendas ocultas", onde a imagem aparece como exemplo de como as legendas são exibidas.
 - 5- Por pouco que o Windows não se chamaria Windows
-foto
+![windows]()
 > Bill Gates iria chamar o sistema operacional de “Interface Manager”, entretanto o nome Windows prevaleceu
-## **fontes**
+### **FONTES**
 https://professor.pucgoias.edu.br/
 https://victorvision.com.br/
 https://aws.amazon.com/
