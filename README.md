@@ -80,17 +80,17 @@ Digite a nova data: (dd-mm-aa) 06/01/2000
 ![windows](https://cdn.awsli.com.br/2500x2500/1264/1264896/produto/77512715/3497e3ad57.jpg)
 > O Windows 10 está em execução em 192 países – praticamente todos os países do planeta.
 - 2- A musiquinha do Windows
-![windows]()
+![windows](https://i2-prod.mirror.co.uk/incoming/article7158599.ece/ALTERNATES/s1200/MAIN-Artwork-For-Bosnia-Celebrity-Art-Show-In-London-Brian-Eno-And-David-Bowie.jpg)
 > Composto por 84 peças de 3,35 segundos, o "Microsoft Sound" foi feito por Eno, que já trabalhou com artistas como U2, David Bowie e Talking Heads.
 - 3- Papel de parede
-![windows]()
+![windows](https://super.abril.com.br/wp-content/uploads/2022/12/SI_bliss_site.jpg?crop=1&resize=1212,909)
 > O famoso papel de parede do Windows XP “Bliss”, realmente existe e foi fotografado na califórnia, em 1996, pelo fotógrafo Charles O’Rear. Já no Windows Vista, os wallpapers padrões foram escolhidos a partir de fotos tiradas pelos funcionários da Microsoft e membros do Flickr.
 - 4- Easter Eggs
-![windows]()
+![windows](https://s2-techtudo.glbimg.com/1BjqCrbtattLBQvwpWzPdp4C3kE=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/t/v/8SPy1zTR2rASQsvKcgVg/hobbit.png)
 > No Windows 10, há uma imagem escondida de uma casa de hobbit, de "Senhor dos Anéis". Para vê-la, basta acessar "Configurações", depois "Facilidade de Acesso" e selecionar "Legendas ocultas", onde a imagem aparece como exemplo de como as legendas são exibidas.
-- 5- Por pouco que o Windows não se chamaria Windows
-![windows]()
-> Bill Gates iria chamar o sistema operacional de “Interface Manager”, entretanto o nome Windows prevaleceu
+- 5- Por pouco que o Windows não se chamaria Windows.
+![windows](https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_17-bill-gates-anos-802.jpg?quality=70&strip=info&w=960)
+> Bill Gates iria chamar o sistema operacional de “Interface Manager”, entretanto o nome Windows prevaleceu.
 ### **FONTES**
 https://professor.pucgoias.edu.br/
 https://victorvision.com.br/
